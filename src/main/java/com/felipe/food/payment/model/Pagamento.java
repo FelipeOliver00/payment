@@ -30,7 +30,7 @@ public class Pagamento {
 
     @NotBlank
     @Size(max=100)
-    private String nonme;
+    private String nome;
 
     @NotBlank
     @Size(max=19)
